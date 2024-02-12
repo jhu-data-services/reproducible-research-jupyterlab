@@ -18,7 +18,31 @@ Before the class, follow the [installation instructions to download all required
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
 - In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
+    - penguins-species-predictor: An example Python reproducible research project we will be using to demonstrate the reproducible research features of JupyterLab
+```
+.
+└── penguin-species-predictor
+    ├── README.md
+    ├── code
+    │   ├── 01_data_cleaning.ipynb
+    │   ├── 02_data_visualization.ipynb
+    │   └── 03_machine_learning.ipynb
+    ├── data
+    │   ├── cleaned
+    │   │   ├── penguins_cleaned.csv
+    │   │   └── penguins_size.csv
+    │   └── raw
+    │       └── penguins_lter.csv
+    └── output
+        ├── figures
+        │   ├── body_mass_boxplot.png
+        │   └── flipper_to_mass_scatter.png
+        ├── manuscript
+        └── reports
+            ├── 01_data_cleaning.html
+            ├── 02_data_visualization.html
+            └── 03_machine_learning.html
+``` 
     - [file2]
     - [file3]
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
