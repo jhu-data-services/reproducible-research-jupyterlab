@@ -1,6 +1,5 @@
-# Workshop Name
-[description]
-
+# JupyterLab for Reproducible Research
+The JupyterLab half of a 1-hour session for Love Data Week 2024, which will overview Quarto and JupyterLab, two popular tools for integrating code, documentation, and text into reproducible research projects. This workshop will teach you the basics of using Quarto and Jupyter Notebooks to improve the legibility of your code in R, Python, or other programming languages, focusing on features that help you create reproducible research and code for technical and non-technical audiences.
 
 ## JHU Data Services   
 Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
@@ -40,4 +39,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. February 13, 2024. JupyterLab for Reproducible Research. https://github.com/jhu-data-services/reproducible-research-jupyterlab.
