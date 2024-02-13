@@ -46,6 +46,8 @@ To access a list of common keyboard shortcuts, use the command:
 
 ## Description of Files
 - **In-ClassScripts**: This folder contains code files you will need for the workshop:
+    - `project_final_version2.py`: An example Python file that is not reproducible
+    - `penguins_Iter.csv`: A data file for the non-reproducible Python code
     - penguins-species-predictor: An example Python reproducible research project we will be using to demonstrate the reproducible research features of JupyterLab
 
 ```
