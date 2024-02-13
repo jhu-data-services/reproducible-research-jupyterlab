@@ -11,9 +11,38 @@ This repository contains materials for one of our live webinars open to JHU stud
 As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
 
 
-## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
+## JupyterLab Installation
 
+### Installing with Anaconda Python
+
+The easiest way to install **JupyterLab**, and the preferred if you don't have Python installed already, is using Anaconda Python: https://www.anaconda.com/download. Anaconda Python is a "batteries included" version of Python with JupyterLab and common packages already installed. This is the fastest and easiest way to get started with JupyterLab and Python.
+
+### Installing manually with `conda`.
+
+If you already have the **Conda** pacakge manager installed (which is installed with the Anaconda or Miniconda Python installer), you can use `conda install -c conda-forge jupyterlab` to install JupyterLab.
+
+### Installing with `pip`
+If you would prefer to use Python's default package manager **pip**, use `pip install jupyterlab` to install JupyterLab.
+
+
+## Using JupyterLab
+
+### Command Palette
+
+All user actions in JupyterLab can be accessed with the **Command Palette**. 
+
+To access Command Palette:
+- Windows/Linux: `Ctrl Shift C`
+- Mac: `Command Shift C`
+
+
+### Keyboard Shortcuts
+
+A list of all the JupyterLab commands and  corresponding keyboard shortcuts are available: https://jupyterlab.readthedocs.io/en/latest/user/commands.html
+
+To access a list of common keyboard shortcuts, use the command:
+- Windows/Linux: `Ctrl Shift H`
+- Mac: `Command Shift H`
 
 ## Description of Files
 - **In-ClassScripts**: This folder contains code files you will need for the workshop:
