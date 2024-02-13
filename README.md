@@ -19,7 +19,7 @@ The easiest way to install **JupyterLab**, and the preferred if you don't have P
 
 ### Installing manually with `conda`.
 
-If you already have the **Conda** pacakge manager installed (which is installed with the Anaconda or Miniconda Python installer), you can use `conda install -c conda-forge jupyterlab` to install JupyterLab.
+If you already have the **Conda** package manager installed (which is installed with the Anaconda or Miniconda Python installer), you can use `conda install -c conda-forge jupyterlab` to install JupyterLab.
 
 ### Installing with `pip`
 If you would prefer to use Python's default package manager **pip**, use `pip install jupyterlab` to install JupyterLab.
